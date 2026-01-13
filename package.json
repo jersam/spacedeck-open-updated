@@ -31,7 +31,7 @@
     "moment": "^2.19.3",
     "morgan": "^1.9.1",
     "nodemailer": "^7.0.12",
-    "puppeteer": "^18",
+    "puppeteer": "^22",
     "read-chunk": "^3",
     "request": "^2.88.0",
     "sanitize-html": "^2.3.3",
